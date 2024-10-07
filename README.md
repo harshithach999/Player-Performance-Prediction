@@ -23,15 +23,15 @@ The primary objective of this project is to apply machine learning algorithms to
 ### 2. Azure Machine Learning Workspace Setup
 - Created an Azure ML Workspace.
   
-  ![Azure ML Workspace Creation](Workspace_Setup_Steps/AzureML_Workspace%20_creation.png)
+  ![Azure ML Workspace Creation](Workspace_Setup_Steps\AzureML_Workspace%20_creation.png)
 
 - Configured necessary resources (Storage Account, Key Vault, etc.).
 
-  ![Azure ML Subscription](Workspace_Setup_Steps/Azure_ML_Subscription.png)
+  ![Azure ML Subscription](Workspace_Setup_Steps\Azure_ML_Subscription.png)
 
 - Launched compute instances to run experiments and models.
 
-  ![Compute Instances](Workspace_Setup_Steps/Compute.png)
+  ![Compute Instances](Workspace_Setup_Steps\Compute.png)
 
 ### 3. Model Development
 - Used several machine learning techniques such as:
@@ -49,7 +49,7 @@ The primary objective of this project is to apply machine learning algorithms to
 - Deployed the best-performing model using Azure ML for real-time predictions.
 - Set up APIs for easy access to the predictions and integration with other systems.
 
-  ![Deployment Completion](Workspace_Setup_Steps/Deployment_Completion.png)
+  ![Deployment Completion](Workspace_Setup_Steps\Deployment_Completion.png)
 
 ## Files in the Repository
 
