@@ -9,15 +9,16 @@ The primary objective of this project is to apply machine learning algorithms to
 ## Technologies Used
 - **Azure Machine Learning**: For model development and deployment.
 - **VS Code**: For writing and debugging code.
-- **Python**: Main language for data analysis and machine learning.
+- **Python**: Main language for data analysis, machine learning, and web scraping.
 - **Jupyter Notebooks**: For interactive coding and model experimentation.
 - **Power BI**: For data visualization and reporting.
 - **GitHub**: For version control and collaboration.
+- **Web Scraping (Python, pandas, url requests)**: For gathering data from various sources.
 
 ## Steps Followed in the Project
 
 ### 1. Data Collection and Preprocessing
-- Gathered player statistics and performance metrics from multiple sources (internal databases, APIs, etc.).
+- Gathered player statistics and performance metrics from multiple sources (internal databases, APIs, web scraping)d.
 - Cleaned and preprocessed the data using pandas and NumPy.
 
 ### 2. Azure Machine Learning Workspace Setup
